@@ -4,7 +4,8 @@
 
 # Scripting Manual - JCSGodot #
 
-Scripting manual website for JCSGodot API. <br/><br/>
+Scripting manual website for JCSGodot API. 
+
 
 ## Links ##
 * *Website* : <a href="http://www.jcs-profile.com:3004">JCSGodot-Scripting-Manual</a>
