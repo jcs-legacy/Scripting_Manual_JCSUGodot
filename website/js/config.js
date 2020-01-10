@@ -13,6 +13,9 @@
 // Manual config.
 const manual_name = "JCSGodot";
 
+const header_color = '#3B7199';
+const arrow_color = '#19E3B1';
+
 // Version config.
 const version_title_01 = "JCSGodot Version: ";
 const version_title_02 = "Godot Version: ";
