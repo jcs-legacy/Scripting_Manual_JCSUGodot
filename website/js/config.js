@@ -34,7 +34,7 @@ const version_num_06 = "";
 const version_num_07 = "";
 
 // Copyright text to show on the website.
-const copyright_text = "Copyright © [yyyy] [Group Name]. Built: [yyyy-mm-dd].";
+const copyright_text = "Copyright © 2018 JCSGodot Group. Built: 2018-10-26.";
 
 // Default content page.
 const intro_content = 'intro';
