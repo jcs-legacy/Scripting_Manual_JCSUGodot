@@ -9,14 +9,15 @@
 
 "use strict";
 
-
-// Manual config.
+// Manual
 const manual_name = "JCSGodot";
 
+// Theme
 const header_color = '#3B7199';
 const arrow_color = '#19E3B1';
+const th_color = '#A2F2DE';
 
-// Version config.
+// Version Information
 const version_title_01 = "JCSGodot Version: ";
 const version_title_02 = "Godot Version: ";
 const version_title_03 = "";
